@@ -1,1 +1,5 @@
 This line was created on the main branch.
+=======
+This line was created on the conflict-test branch.
+
+This conflict has been resolved successfully.
